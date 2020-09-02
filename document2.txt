@@ -1,0 +1,1 @@
+This is document 2 about how to do version control with git.
